@@ -1,0 +1,26 @@
+{
+    "name": "Uten navn",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Gielladohkka_bargu1": "github:timvalio/gielladohkka_bargu1#5c1a2419ddec0574608afbec0391b65f6a55a6fc"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
